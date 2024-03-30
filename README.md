@@ -1,5 +1,5 @@
 
-# Nike Home page Clone
+# iNotebook Frontend
 
 iNotebook a todo as well as a note taking application where users can store their data tag them accordingly.
 
@@ -20,5 +20,7 @@ To run the application, run the following command
 npm i - to install all the libraries used
 
 npm start - to run the application
+
+Note-please wait while login and signup, because bandwidth is limited 
 
 
