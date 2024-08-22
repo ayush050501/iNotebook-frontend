@@ -7,7 +7,7 @@ iNotebook a todo as well as a note taking application where users can store thei
 
 Api used in this app is created by me using Express.js and data is securely stored in MongoDB.
 
-API for fetching - https://inotebook-backend-p7t1.onrender.com
+API for fetching - http://localhost:5000
 ## Installation and Running
 
 To run the application, run the following command
