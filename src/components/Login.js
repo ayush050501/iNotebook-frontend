@@ -4,7 +4,7 @@ import {useNavigate,Link} from 'react-router-dom';
 
 const Login = (props) => {
 
-  const host = "http://localhost:5000"
+  const host = "http://172.31.8.81:5000"
 
     const [cred, setcred] = useState({email:"",password:""});
     let navigate = useNavigate();
